@@ -60,7 +60,7 @@ Muuri is a magical JavaScript layout engine that allows you to build all kinds o
 			'image'  => __('Image', 'cmb2'),
 		),
 	) );</pre>
-<h1>Code Example to display List in front end</h1> 
+<h3>Code Example to display List in front end</h3> 
 <pre >
 $subject = get_option('example_1');
 $item_name = str_replace(array('undefined', '[',']','{','}',':', '"'),"", $subject);
