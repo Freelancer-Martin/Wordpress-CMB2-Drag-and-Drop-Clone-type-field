@@ -12,7 +12,7 @@ CMB2 Drag and Drop field type which allows drag and drop between two different c
 <li> Stable tag: 1.0.1 </li> 
 <li> License: GPLv2 or later </li> 
 <li> License URI: http://www.gnu.org/licenses/gpl-2.0.html </li> 
-<ul>
+</ul>
 
 <h1>Contribution</h1>
 
@@ -28,7 +28,7 @@ CMB2 Drag and Drop field type which allows drag and drop between two different c
 <li> Edit to only include the fields you need and rename the functions. </li> 
 <li> Profit. </li> 
 
-<ul>
+</ul>
   
 
 <p>If including the library in your plugin or theme:</p>
@@ -39,8 +39,7 @@ CMB2 Drag and Drop field type which allows drag and drop between two different c
 <li>  Copy (and rename if desired) example-functions.php into to your theme or plugin's directory. </li> 
 <li> Edit to only include the fields you need and rename the functions (CMB2 directory should be left unedited in order to easily update the library).</li> 
 <li> Profit. </li> 
-
-<ul>
+</ul>
   
   
 
