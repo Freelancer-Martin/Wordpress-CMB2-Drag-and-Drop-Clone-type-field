@@ -5,7 +5,7 @@ CMB2 Drag and Drop field type which allows drag and drop between two different c
 <img src="https://github.com/Freelancer-Martin/Wordpress-CMB2-Drag-and-Drop-Clone-type-field/blob/master/Screen%20Shot%202018-01-09%20at%2015.15.38.png"/>
 <ul>
 <li>  Contributors: Freelancer Martin </li> 
-<li> Homepage: https://developerforwebsites.com </li> 
+<li> Homepage: http://developerforwebsites.com </li> 
 <li> Tags: CMB2 Field Type: Drag and Drop(Clone) </li> 
 <li> Requires at least: 3.8.0 </li> 
 <li> Tested up to: 4.9.1 </li> 
