@@ -22,7 +22,7 @@ CMB2 Drag and Drop field type which allows drag and drop between two different c
 <h3>Installation</h3>
 <p>If including the library in your plugin or theme:</p>
 <ul>
-<li>  Upload or Intall the entire /CMB2 directory to the /wp-content/plugins/ directory. </li> 
+<li>  Upload or Intall the entire /cmb2-drag-and-drop directory to the /wp-content/plugins/ directory. </li> 
 <li>  Upload the entire plugin directory to the /wp-content/plugins/ directory.</li> 
 <li> Activate WDS CMB2 Customizer through the 'Plugins' menu in WordPress.</li> 
 <li>  Copy (and rename if desired) example-functions.php into to your theme or plugin's directory. </li> 
