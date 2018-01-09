@@ -1,0 +1,81 @@
+body {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 20px 0;
+}
+
+.button-container {
+  float: left;
+  width: 100%;
+  position: relative;
+  font-size: 13px;
+  margin: 20px;
+}
+.grid-2 {
+  float: right;
+  width: 65%;
+  margin: 5px;
+  border: 1px solid red;
+  height: 200px;
+  font-size: 13px;
+}
+
+
+
+.grid-1 {
+
+  width: 26%;
+  margin: 5px;
+  border: 1px solid green;
+}
+.grid {
+  position: relative;
+
+  background: #ccc;
+  border: 5px solid transparent;
+}
+.item {
+  position: absolute;
+  width: 150px;
+  height: 100px;
+  line-height: 100px;
+  margin: 5px;
+  z-index: 1;
+}
+.item.muuri-item-hidden {
+  z-index: 0;
+}
+.item.muuri-item-releasing {
+  z-index: 2;
+}
+.item.muuri-item-dragging {
+  z-index: 3;
+}
+.grid-2 #new-item-content-img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background: black;
+  font-size: 13px;
+  color: white;
+  cursor: pointer;
+}
+.grid-1 .new-item-content-img ,
+.item-content {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background: red;
+  font-size: 13px;
+  color: white;
+  cursor: pointer;
+}
+.grid-2 .item-content {
+  background: green;
+}
+.item.muuri-item-dragging .item-content,
+.item.muuri-item-releasing .item-content {
+  background: blue;
+}
