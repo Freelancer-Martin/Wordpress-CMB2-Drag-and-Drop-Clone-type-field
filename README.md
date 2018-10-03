@@ -54,7 +54,6 @@ CMB2 Drag and Drop field type allows you to add many drag and drop elements ass 
 <pre>
 $cmb_demo->add_field( array(
     'name' => 'Drag and Drop field',
-    //'desc' => 'Custom Address Field',
     'id'   => '_cmb2_drag_and_drop',
     'type' => 'cmb2_drag_and_drop',
 
@@ -72,8 +71,8 @@ $cmb_demo->add_field( array(
 <h3>Code Example to display List in front end</h3>
 <p> Because field type uses ajax for save you have to use other way to display settings, as example Below
 <pre>
-$cool_options = get_option('drag_and_drop_option');
+			$cool_options = get_option('drag_and_drop_option');
 			$data_array = json_decode($cool_options, TRUE);
 			print_r($data_array);
-			while ( have_posts() ) :
+			
 </pre>
