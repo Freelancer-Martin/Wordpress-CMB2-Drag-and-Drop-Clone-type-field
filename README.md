@@ -38,15 +38,12 @@ CMB2 Drag and Drop field type which allows drag and drop between two different c
     ),
 
     </pre>)
-  will be displayed in first container box  and can be used as setting boxes.
-  </li>
 
-<li> Edit to only include the fields you need and rename the functions (CMB2 directory should be left unedited in order to easily update the library).</li>
 <li> Profit. </li>
 </ul>
   <h3>Features</h3>
 <p style="text-align: left; padding: 20px;">
-CMB2 Drag and Drop field type allows you to add many drag and drop elements ass you like. Just add extra options under cmb2 tab and all elements are displayed in first box. After dragging one element to second box , the same element is cloned in first box and dragged element will be included to second box and will receive unique ID. With this Id all elements are displayed as they are. Plugin work basic at the moment, in future there will be some extra stuff.
+CMB2 Drag and Drop field type allows you to add many drag and drop elements ass you like. Just add extra options under cmb2 tab and all elements are displayed in first box. After dragging one element to second box , the same element is cloned in first box and dragged element will be included to second box . With this Id all elements are displayed as they are. Plugin work basic at the moment, in future there will be some extra stuff.
 </p>
 
 
